@@ -1,1 +1,2 @@
-# 360-video
+# VR stuff
+to be continued..
